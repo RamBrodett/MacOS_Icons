@@ -1,4 +1,4 @@
-## This is an SLATE GRAY THEME Icon Repository
+## This is a SLATE GRAY THEME Icon Repository
 
 current available icons i created are for:
 - Messenger
