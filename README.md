@@ -1,6 +1,6 @@
 ## This is a SLATE GRAY THEME Icon Repository
 
-current available icons i created are for:
+current available icons are for:
 - Messenger
 - Spotify
 - Iterm
